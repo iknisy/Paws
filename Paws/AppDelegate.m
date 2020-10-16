@@ -7,7 +7,6 @@
 //
 
 #import "AppDelegate.h"
-#import "CatsTableViewController.h"
 @import Firebase;
 
 @interface AppDelegate ()
